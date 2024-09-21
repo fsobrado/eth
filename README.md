@@ -15,3 +15,11 @@ Si un usuario tiene un NFT y lo quiere revender, puede hacerlo llamando a la fun
 
 4. Cancelar la venta
 El propietario de un NFT también tiene la opción de cancelar la venta, usando la función cancelNFTSale, si decide no venderlo más.
+
+## Creadores
+-Federico Sobrado
+-Manuel Jimenez
+-Oscar Alvarado
+
+## Links
+https://sepolia.etherscan.io/address/0x9A53D8A697A44734D760739e0de674DeaF6f9d96#code
